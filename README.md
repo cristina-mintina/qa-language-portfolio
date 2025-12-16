@@ -1,7 +1,7 @@
 # QA & Italian Language Portfolio
 
-This repository contains NDA-safe examples demonstrating my approach to
-quality assurance and Italian language validation for games and consumer technology.
+This repository outlines my NDA-safe approach to
+quality assurance and Italian language validation for games and consumer technology, including evaluation criteria and QA methodology.
 
 My work focuses on identifying player-facing issues, validating localized content
 for accuracy and natural flow, and ensuring functional correctness across UI,
@@ -28,6 +28,21 @@ Key items I validate when reviewing Italian game text:
 - Natural phrasing and idiomatic flow
 - Truncation and UI fit
 - Contextual accuracy based on gameplay state
+
+### Example: Italian UI Localization Review (Illustrative)
+
+Original (English):
+"Save changes before exiting?"
+
+Italian (example):
+"Salvare le modifiche prima di uscire?"
+
+Review focus:
+- Formal vs informal register
+- Button label length constraints
+- Consistency with surrounding system messaging
+- Clarity in confirmation context
+
 
 ### Bug Reporting (NDA-safe examples)
 - Clear titles and reproduction steps
